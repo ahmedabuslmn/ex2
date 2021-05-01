@@ -225,8 +225,8 @@
     <TextView
         android:id="@+id/button7"
         style="@style/CalculatorButton"
-        android:layout_width="0dp"
-        android:layout_height="0dp"
+        android:layout_width="119dp"
+        android:layout_height="114dp"
         android:background="@drawable/ripple_gray_on_white"
         android:text="7"
         app:layout_constraintBottom_toTopOf="@id/button4"
